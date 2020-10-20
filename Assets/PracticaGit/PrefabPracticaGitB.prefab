@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6829015603546348009}
   - component: {fileID: 6835570216245673929}
   m_Layer: 0
-  m_Name: PrefabPracticaGit 1
+  m_Name: PrefabPracticaGitB
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
